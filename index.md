@@ -1,13 +1,6 @@
 # Z0F - Research, courses, and more.
 
-# ATTENTION:
-**The reverse engineering course has been moved back to GitHub. Maintaining the course on this website was too difficult and annoying.**  
-You can find the course here: [https://github.com/0xZ0F/Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)
-
-# Plan:
-!!! - The reverse engineering course is getting a revamp soon! I will be adding more detail as well as content.
-
-I'm working on a basic exploit development course as well.
+# Reverse Engineering Course: [https://github.com/0xZ0F/Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)
 
 # Places
 * Twitter: [https://twitter.com/0xZ0F](https://twitter.com/0xZ0F)
@@ -19,8 +12,8 @@ I'm working on a basic exploit development course as well.
 The courses take a long time to make, and I'm working on my own. As the courses get bigger and more complex they become harder to manage and make. On top of making the courses, I have real-life stuff going on. I try to make the courses as high quality, detailed, well structured, and easy to follow as I can. Unfortunately, there is only so much I can do. When working on these courses my motivation can die fast, which is why I need your help! It doesn't have to be money, it can be something as simple as following me on [Twitter](https://twitter.com/0xZ0F). If you do wish to support me monetarily, you can do so via [Patreon](https://www.patreon.com/z0f).
 
 # Contact
-[Twitter: 0xZ0F](https://twitter.com/0xZ0F)  
-Discord: Maybe sometime in the future.
+Twitter: [0xZ0F](https://twitter.com/0xZ0F)  
+Discord Channel: [https://discord.com/invite/73tkPGv](https://discord.com/invite/73tkPGv)
 
 If you have any questions, recommendations, or you found an issue, please contact me! I'm not much of a social person, so be patient ;)
 
