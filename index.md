@@ -1,6 +1,6 @@
 # Z0F - Research, courses, and more.
 
-# Reverse Engineering Course: [https://github.com/0xZ0F/Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)
+# [Reverse Engineering Course - https://github.com/0xZ0F/Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)
 
 # Places
 * Twitter: [https://twitter.com/0xZ0F](https://twitter.com/0xZ0F)
