@@ -3,13 +3,14 @@ title: Flare-On 2019 "Memecat Battlestation"
 date: 2019-12-1 12:00:00
 img_path: /assets/posts/blog/FlareOn2019/Memecat
 tags: [CTF, Programming, NET, CS, CPP, Reverse Engineering]
+toc: true
 ---
 
 # Flare-On 1: Memecat Battlestation
 
 This challenge is part of the Fare-On challenges hosted by FireEye. This challenge was made by Nick Harbour (@nickaharbour). You can find more information here: https://www.fireeye.com/blog/threat-research/2019/09/2019-flare-on-challenge-solutions.html
 
-# Initial Analysis
+## Initial Analysis
 
 This is what we see when the program launches:
 
@@ -25,7 +26,7 @@ Because it's .NET it can easily be decompiled, assuming there is no obfuscation.
 
 ![dnSpy](dnSpyFunctions.png)
 
-# Stage 1
+## Stage 1
 
 There are three main forms: `Stage1Form`, `Stage2Form`, and `VictoryForm`. Because this is a CTF with multiple stages, let's start at `Stage1Form`. Inside of the constructor for this form there is a call to `InitializeComponent();`. Viewing this function reveals that it's an initialization function for all of the form components such as buttons, input fields, and text/labels. 
 
@@ -69,7 +70,7 @@ private void FireButton_Click(object sender, EventArgs e)
 
 The code reveals that if the text entered into `codeTextBox` is "RAINBOW" then several things will happen including `victoryAnimationTimer.Start();`. It's safe to assume that this is the win condition. Entering "RAINBOW" into the text field results in the next stage being loaded.
 
-# Stage 2
+## Stage 2
 
 Here is what the program looks like now:
 
@@ -144,7 +145,7 @@ int main() {
 
 The code creates a char array of the bytes that the XORed input is compared against. It then loops over the array and XORs each character with the character 'A'. This reveals the weapon code which is "Bagel_Cannon".
 
-# Win
+## Win
 
 That's it! It was a trivial program to reverse but still quite fun.
 
