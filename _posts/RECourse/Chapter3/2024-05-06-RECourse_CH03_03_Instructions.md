@@ -249,7 +249,7 @@ You'll see LEA and MOV used all the time so be sure you understand this. I know 
 
 There are many more Assembly instructions that I haven't covered. As we continue I will introduce more instructions as they come. Don't be afraid to look up instructions, because like I said, there are quite a few (hundreds or thousands).
 
+[-> Next Lesson]({% post_url/RECourse/Chapter3/2024-05-06-RECourse_CH03_04_Flags %})  
 [<- Previous Lesson]({% post_url/RECourse/Chapter3/2024-05-06-RECourse_CH03_02_MemoryLayout %})  
-[Next Lesson ->]({% post_url/RECourse/Chapter3/2024-05-06-RECourse_CH03_04_Flags %})  
 
 [Chapter Home]({% post_url/RECourse/Chapter3/2024-05-06-RECourse_CH03_00_Assembly %})  

@@ -27,7 +27,7 @@ Another huge advantage of these kinds of languages is security. Everything runs 
 
 Some people consider Java or C# to be compiled, but they call Python interpreted. This is down to how the languages work, or rather, how they think they work. Python is very similar to Java and .NET because Python is actually compiled into bytecode. This bytecode is then interpreted by a VM just like Java and .NET. So really, they aren't that different. The reason why people don't consider Python as compiled is because there is no executable, just the .py script. In C# and Java you at least have some form of executable.
 
+[-> Next Lesson]({% post_url/RECourse/Chapter2/2024-05-06-RECourse_CH02_05_BitwiseOperations %})  
 [<- Previous Lesson]({% post_url/RECourse/Chapter2/2024-05-06-RECourse_CH02_03_BitsAndBytes %})  
-[Next Lesson ->]({% post_url/RECourse/Chapter2/2024-05-06-RECourse_CH02_05_BitwiseOperations %})  
 
 [Chapter Home]({% post_url/RECourse/Chapter2/2024-05-06-RECourse_CH02_00_BinaryBasics %})  

@@ -33,8 +33,8 @@ For more data types go here: <https://www.tutorialspoint.com/cprogramming/c_data
 
 The least significant digit has the lowest value. The most significant digit has the highest value. The least significant digit in 124 is 4. The most significant is 1 (100).
 
+[-> Next Lesson]({% post_url/RECourse/Chapter2/2024-05-06-RECourse_CH02_04_ProgrammingLanguages %})  
 [<- Previous Lesson]({% post_url/RECourse/Chapter2/2024-05-06-RECourse_CH02_02_ASCII %})  
-[Next Lesson ->]({% post_url/RECourse/Chapter2/2024-05-06-RECourse_CH02_04_ProgrammingLanguages %})  
 
 
 [Chapter Home]({% post_url/RECourse/Chapter2/2024-05-06-RECourse_CH02_00_BinaryBasics %})  

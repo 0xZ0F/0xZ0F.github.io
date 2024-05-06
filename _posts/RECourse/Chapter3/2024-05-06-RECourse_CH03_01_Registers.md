@@ -91,8 +91,8 @@ Examples:
 * R8W - Lower word (2 bytes)
 * R8B - Lower byte.
 
+[-> Next Lesson]({% post_url/RECourse/Chapter3/2024-05-06-RECourse_CH03_02_MemoryLayout %})  
 [<- Previous Lesson]({% post_url/RECourse/Chapter3/2024-05-06-RECourse_CH03_00_Assembly %})  
-[Next Lesson ->]({% post_url/RECourse/Chapter3/2024-05-06-RECourse_CH03_02_MemoryLayout %})  
 
 [Chapter Home]({% post_url/RECourse/Chapter3/2024-05-06-RECourse_CH03_00_Assembly %})  
 

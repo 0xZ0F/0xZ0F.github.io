@@ -45,7 +45,7 @@ These operations include **NOT**, **AND**, **OR**, and **XOR**.
 
 ![](BOXor.png)
 
+[-> Next Lesson]({% post_url/RECourse/Chapter2/2024-05-06-RECourse_CH02_06_Mindset %})  
 [<- Previous Lesson]({% post_url/RECourse/Chapter2/2024-05-06-RECourse_CH02_04_ProgrammingLanguages %})  
-[Next Lesson ->]({% post_url/RECourse/Chapter2/2024-05-06-RECourse_CH02_06_Mindset %})  
 
 [Chapter Home]({% post_url/RECourse/Chapter2/2024-05-06-RECourse_CH02_00_BinaryBasics %})  

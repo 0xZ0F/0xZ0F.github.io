@@ -47,7 +47,7 @@ I also want to point out the delimiters (the forward slashes) used for the numbe
 
 Because computers are stupid, they often do things in such a simple way that may not be obvious at first. For example, how does a computer decide if two values are equal? When you start looking at Assembly instructions there is a compare instruction. This instruction can decide if a value is greater than another, less than another, or equal to another. How does this instruction determine all of these things? It's actually quite simple, just subtract them. It's so simple it may not be obvious at first.
 
+[-> Next Lesson]({% post_url/RECourse/Chapter3/2024-05-06-RECourse_CH03_00_Assembly %})  
 [<- Previous Lesson]({% post_url/RECourse/Chapter2/2024-05-06-RECourse_CH02_05_BitwiseOperations %})  
-[Next Lesson ->]({% post_url/RECourse/Chapter3/2024-05-06-RECourse_CH03_00_Assembly %})  
 
 [Chapter Home]({% post_url/RECourse/Chapter2/2024-05-06-RECourse_CH02_00_BinaryBasics %})

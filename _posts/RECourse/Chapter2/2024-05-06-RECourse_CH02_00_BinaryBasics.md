@@ -16,7 +16,7 @@ This chapter is going to cover some basic binary concepts such as math, bitwise 
     * [2.5 Bitwise Operations]({% post_url/RECourse/Chapter2/2024-05-06-RECourse_CH02_05_BitwiseOperations %})
     * [2.6 Mindset]({% post_url/RECourse/Chapter2/2024-05-06-RECourse_CH02_06_Mindset %})
 
+[-> Next Lesson]({% post_url/RECourse/Chapter2/2024-05-06-RECourse_CH02_01_NumberSystems %})  
 [<- Previous Lesson]({% post_url/RECourse/Chapter1/2024-05-06-RECourse_CH01_01_Setup %})  
-[Next Lesson ->]({% post_url/RECourse/Chapter2/2024-05-06-RECourse_CH02_01_NumberSystems %})  
 
 [Chapter Home]({% post_url/RECourse/Chapter2/2024-05-06-RECourse_CH02_00_BinaryBasics %})

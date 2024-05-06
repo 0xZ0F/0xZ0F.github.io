@@ -74,8 +74,8 @@ If you want to learn more about the various calling conventions, see the sources
 
 That wasn't too hard, was it? Cdecl is pretty easy and this is your second calling convention so I can exclude *many* details.
 
+[-> Next Lesson]({% post_url/RECourse/Chapter3/2024-05-06-RECourse_CH03_06_FinalNotes %})  
 [<- Previous Lesson]({% post_url/RECourse/Chapter3/2024-05-06-RECourse_CH03_04_Flags %})  
-[Next Lesson ->]({% post_url/RECourse/Chapter3/2024-05-06-RECourse_CH03_06_FinalNotes %})  
 
 [Chapter Home]({% post_url/RECourse/Chapter3/2024-05-06-RECourse_CH03_00_Assembly %})  
 

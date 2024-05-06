@@ -42,6 +42,6 @@ I use some technical lingo and abbreviations. If you forget what they mean, or d
 * [1.0 Introduction]({% post_url/RECourse/Chapter1/2024-05-06-RECourse_CH01_00_Intro %})
 * [1.1 Setup]({% post_url/RECourse/Chapter1/2024-05-06-RECourse_CH01_01_Setup %})
 
-[Next Lesson ->]({% post_url/RECourse/Chapter1/2024-05-06-RECourse_CH01_01_Setup %})  
+[-> Next Lesson]({% post_url/RECourse/Chapter1/2024-05-06-RECourse_CH01_01_Setup %})  
 
 [Chapter Home]({% post_url/RECourse/Chapter1/2024-05-06-RECourse_CH01_00_Intro %})  

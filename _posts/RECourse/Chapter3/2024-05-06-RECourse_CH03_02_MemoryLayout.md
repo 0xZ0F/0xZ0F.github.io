@@ -119,7 +119,7 @@ It's a simple concept, don't over-complicate it just because I've given a long e
 
 On x64, it's common to see RBP used in a non-traditional way. Sometimes only RSP is used to point to data on the stack such as local variables and function parameters, and RBP is used for general data (similar to RAX). This will be discussed in further detail later.
 
+[-> Next Lesson]({% post_url/RECourse/Chapter3/2024-05-06-RECourse_CH03_03_Instructions %})  
 [<- Previous Lesson]({% post_url/RECourse/Chapter3/2024-05-06-RECourse_CH03_01_Registers %})  
-[Next Lesson ->]({% post_url/RECourse/Chapter3/2024-05-06-RECourse_CH03_03_Instructions %})  
 
 [Chapter Home]({% post_url/RECourse/Chapter3/2024-05-06-RECourse_CH03_00_Assembly %})  

@@ -13,8 +13,8 @@ In order for 0x41414141 to be "AAAA" we need to have some sort of standard. This
 
 Here's a full ASCII table: <https://www.asciitable.com>
 
+[-> Next Lesson]({% post_url/RECourse/Chapter2/2024-05-06-RECourse_CH02_03_BitsAndBytes %})  
 [<- Previous Lesson]{% post_url/RECourse/Chapter2/2024-05-06-RECourse_CH02_01_NumberSystems %})  
-[Next Lesson ->]({% post_url/RECourse/Chapter2/2024-05-06-RECourse_CH02_03_BitsAndBytes %})  
 
 
 [Chapter Home]({% post_url/RECourse/Chapter2/2024-05-06-RECourse_CH02_00_BinaryBasics %})  

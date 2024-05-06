@@ -16,7 +16,7 @@ This chapter will act as a crash course or refresher for the Assembly language. 
     * [3.5 Calling Conventions]({% post_url/RECourse/Chapter3/2024-05-06-RECourse_CH03_05_CallingConventions %})
     * [3.6 Final Notes]({% post_url/RECourse/Chapter3/2024-05-06-RECourse_CH03_06_FinalNotes %})
 
+[-> Next Lesson]({% post_url/RECourse/Chapter3/2024-05-06-RECourse_CH03_01_Registers %})  
 [<- Previous Lesson]({% post_url/RECourse/Chapter2/2024-05-06-RECourse_CH02_06_Mindset %})  
-[Next Lesson ->]({% post_url/RECourse/Chapter3/2024-05-06-RECourse_CH03_01_Registers %})  
 
 [Chapter Home]({% post_url/RECourse/Chapter3/2024-05-06-RECourse_CH03_00_Assembly %})  
