@@ -20,7 +20,7 @@ Here are the flags you should know. Note that when I say a "flag is set" I mean 
 * **Parity Flag (PF)** - Set to 1 if the number of bits set in the last 8 bits is even. (10110100, PF=1; 10110101, PF=0)
 * **Trap Flag (TF)** - Allows for single stepping of programs.
 
-For a full list of flags see: <https://www.tech-recipes.com/rx/1239/assembly-flags/>
+For a full list of flags see: <https://www.tech-recipes.com/rx/1239/assembly-flags>
 
 ## Examples
 

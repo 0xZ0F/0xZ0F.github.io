@@ -24,10 +24,10 @@ If you don't have any computer science knowledge, watch this YouTube playlist. I
 * **Highly recommended**: x86 or x64 Assembly Programming - Preferably x64 Windows.
 
 **Learn C:**  
-<https://www.learn-c.org/>
+<https://www.learn-c.org>
 
 **Learn C++:**  
-<https://www.learncpp.com/>
+<https://www.learncpp.com>
 
 **If you have some experience in C++:**  
 <https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb>
