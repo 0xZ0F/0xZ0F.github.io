@@ -29,7 +29,7 @@ The software listed here won't be used in the course, but you might want it in t
   * [**Visual Studio**](https://visualstudio.microsoft.com/) with "Desktop development with C++" installed. You will also need a Windows SDK but that should be selected automatically.
 * [**HxD**](https://mh-nexus.de/en/hxd/)
 * [**Sysinternals Suite**](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) - Various tools to analyze Windows.
-* [**Dependency Walker**](http://www.dependencywalker.com/) - If you want a GUI alternative to _SysInternal's_ "dumpbin".
+* [**Dependency Walker**](https://www.dependencywalker.com/) - If you want a GUI alternative to _SysInternal's_ "dumpbin".
 
 ## Target Software:
 

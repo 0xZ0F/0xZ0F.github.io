@@ -10,7 +10,7 @@ Computers only understand numbers. So how are you seeing this text on your scree
 ## How Does It Work?
 In order for 0x41414141 to be "AAAA" we need to have some sort of standard. This standard is called ASCII. When you interpret something as ASCII you are assigning values to some other form. For example, in ASCII, 0x41 is "A", 0x42 is "B", etc. This standard allows any software using ASCII to see and present the same thing. There are, of course, many different standards that are used in different scenarios.
 
-Here's a full ASCII table: <http://www.asciitable.com>
+Here's a full ASCII table: <https://www.asciitable.com>
 
 [<- Previous Lesson](2.1%20NumberSystems.md)  
 [Next Lesson ->](2.3%20BitsAndBytes.md)  
