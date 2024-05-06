@@ -59,7 +59,7 @@ add AL, 60
 
 Hopefully, that gives you a good idea of what flags are and how they work. Remember that CMP will set flags depending on the result of the comparison. Conditional jumps will simply look at the flags. This tells us that a conditional jump does not need to be immediately proceeded with a CMP to work. Also, flags are set by things other than CMP instructions.
 
-[<- Previous Lesson](3.3%20Instructions.md)  
-[Next Lesson ->](3.5%20CallingConventions.md)  
+[<- Previous Lesson]({% post_url/RECourse/Chapter3/2024-05-06-RECourse_CH03_03_Instructions %})  
+[Next Lesson ->]({% post_url/RECourse/Chapter3/2024-05-06-RECourse_CH03_05_CallingConventions %})  
 
-[Chapter Home](3.0%20Assembly.md)  
+[Chapter Home]({% post_url/RECourse/Chapter3/2024-05-06-RECourse_CH03_00_Assembly %})  

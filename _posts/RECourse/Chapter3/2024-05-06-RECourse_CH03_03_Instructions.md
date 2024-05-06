@@ -6,6 +6,7 @@ tags: [RE Course, Assembly]
 ---
 
 # 3.3 Instructions
+
 The ability to read and comprehend Assembly code is vital to reverse engineering. There are roughly 1,500 instructions, however, a majority of the instructions are not commonly used or they're just variations (such as MOV and MOVS). Just like in high-level programming, don't hesitate to look up something you don't know.
 
 Before we get started there are three different terms you should know: **immediate**, **register**, and **memory**. 
@@ -102,7 +103,7 @@ mul RAX, RBX
 
 ### Flow:
 
-**CMP** compares two operands and sets the appropriate flags depending on the result. The following would set the Zero Flag (ZF) to 1 which means the comparison determined that RAX was equal to five. Flags are talked about in the next lesson, [3.4 Flags](3.4%20Flags.md).
+**CMP** compares two operands and sets the appropriate flags depending on the result. The following would set the Zero Flag (ZF) to 1 which means the comparison determined that RAX was equal to five. Flags are talked about in the next lesson, [3.4 Flags]({% post_url/RECourse/Chapter3/2024-05-06-RECourse_CH03_04_Flags %}).
 
 ```nasm
 mov RAX, 5
@@ -248,7 +249,7 @@ You'll see LEA and MOV used all the time so be sure you understand this. I know 
 
 There are many more Assembly instructions that I haven't covered. As we continue I will introduce more instructions as they come. Don't be afraid to look up instructions, because like I said, there are quite a few (hundreds or thousands).
 
-[<- Previous Lesson](3.2%20MemoryLayout.md)  
-[Next Lesson ->](3.4%20Flags.md)  
+[<- Previous Lesson]({% post_url/RECourse/Chapter3/2024-05-06-RECourse_CH03_02_MemoryLayout %})  
+[Next Lesson ->]({% post_url/RECourse/Chapter3/2024-05-06-RECourse_CH03_04_Flags %})  
 
-[Chapter Home](3.0%20Assembly.md)  
+[Chapter Home]({% post_url/RECourse/Chapter3/2024-05-06-RECourse_CH03_00_Assembly %})  

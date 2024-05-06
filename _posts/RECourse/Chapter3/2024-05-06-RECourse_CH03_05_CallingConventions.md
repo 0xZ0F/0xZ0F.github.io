@@ -63,7 +63,7 @@ That's the x64 Windows fastcall calling convention for you. Learning your first 
 
 If you want to learn more about the various calling conventions, see the sources at the end of the page.
 
-> If this lesson was confusing, read through [3.3 Instructions.md](3.3%20Instructions.md) then re-read this lesson. I apologize for this but there really isn't a good order to teach this stuff in since it all goes together.
+> If this lesson was confusing, read through [3.3 Instructions.md]({% post_url/RECourse/Chapter3/2024-05-06-RECourse_CH03_03_Instructions %}) then re-read this lesson. I apologize for this but there really isn't a good order to teach this stuff in since it all goes together.
 {:.prompt-tip}
 
 # cdecl (C Declaration)
@@ -74,10 +74,10 @@ If you want to learn more about the various calling conventions, see the sources
 
 That wasn't too hard, was it? Cdecl is pretty easy and this is your second calling convention so I can exclude *many* details.
 
-[<- Previous Lesson](3.4%20Flags.md)  
-[Next Lesson ->](3.6%20FinalNotes.md)  
+[<- Previous Lesson]({% post_url/RECourse/Chapter3/2024-05-06-RECourse_CH03_04_Flags %})  
+[Next Lesson ->]({% post_url/RECourse/Chapter3/2024-05-06-RECourse_CH03_06_FinalNotes %})  
 
-[Chapter Home](3.0%20Assembly.md)  
+[Chapter Home]({% post_url/RECourse/Chapter3/2024-05-06-RECourse_CH03_00_Assembly %})  
 
 ### Sources
 * <https://docs.microsoft.com/en-us/cpp/build/x64-software-conventions?view=vs-2019>

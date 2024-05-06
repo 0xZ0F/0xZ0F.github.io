@@ -33,7 +33,7 @@ What about base 2? Base 2 includes 0 and 1. It will help to break the base down:
 
 If you want to learn binary conversion and how to evaluate different bases, go here:
 
-https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/number-systems-introduction
+<https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/number-systems-introduction>
 
 Trying to explain this stuff through words can be a little difficult, and that video describes it very well. It also saves me some time.
 
@@ -61,7 +61,7 @@ In order to distinguish between different number systems, we use prefixes or suf
 * Hexadecimal is represented with a **prefix "0x"** or **suffix "h"**. Examples: 0x12 or 12h. Another way hexadecimal is represented is with the prefix of "\x". However, this is typically used per-byte. Two hexadecimal digits make one byte. Examples: \x12 or \x12\x45\x21. If bits and bytes seem a little weird we'll get into them soon so don't worry.
 * Binary is represented with a **suffix "b"** or with a **padding of zeros at the start**. Examples: 100101b or 00100101. The padding at the start is often used because a decimal number can't start with a zero.
 
-[-> Next Lesson](2.2%20ASCII.md)  
-[<- Previous Lesson](2.0%20BinaryBasics.md)  
+[-> Next Lesson]({% post_url/RECourse/Chapter2/2024-05-06-RECourse_CH02_02_ASCII %})  
+[<- Previous Lesson]({% post_url/RECourse/Chapter2/2024-05-06-RECourse_CH02_00_BinaryBasics %})  
 
-[Chapter Home](2.0%20BinaryBasics.md)  
+[Chapter Home]({% post_url/RECourse/Chapter2/2024-05-06-RECourse_CH02_00_BinaryBasics %})

@@ -91,9 +91,9 @@ Examples:
 * R8W - Lower word (2 bytes)
 * R8B - Lower byte.
 
-[<- Previous Lesson](3.0%20Assembly.md)  
-[Next Lesson ->](3.2%20MemoryLayout.md)  
+[<- Previous Lesson]({% post_url/RECourse/Chapter3/2024-05-06-RECourse_CH03_00_Assembly %})  
+[Next Lesson ->]({% post_url/RECourse/Chapter3/2024-05-06-RECourse_CH03_02_MemoryLayout %})  
 
-[Chapter Home](3.0%20Assembly.md)  
+[Chapter Home]({% post_url/RECourse/Chapter3/2024-05-06-RECourse_CH03_00_Assembly %})  
 
 > Thank you to [Seelengrab](https://github.com/Seelengrab) for [the resources](https://en.wikipedia.org/wiki/Advanced_Vector_Extensions) and information about the floating point registers.
