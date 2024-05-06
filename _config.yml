@@ -130,6 +130,16 @@ paginate: 10
 # The base URL of your site
 baseurl: ""
 
+course_links:
+  re:
+    main: "_posts/RECourse/2024-05-06-RECourse.md"
+    faq: "_posts/RECourse/2024-05-06-RECourse_FAQ.md"
+    beforeyoubegin: "_posts/RECourse/2024-05-06-RECourse_BeforeYouBegin.md"
+    contributing: "_posts/RECourse/2024-05-06-RECourse_Contributing.md"
+    credit: "_posts/RECourse/2024-05-06-RECourse_Credit.md"
+    lingo: "_posts/RECourse/2024-05-06-RECourse_Lingo.md"
+    toc: "_posts/RECourse/2024-05-06-RECourse_TOC.md"
+
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:
@@ -193,6 +203,7 @@ exclude:
   - tools
   - README.md
   - LICENSE
+  - LICENSE-RE_COURSE
   - rollup.config.js
   - package*.json
 

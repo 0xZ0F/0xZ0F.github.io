@@ -2,6 +2,7 @@
 title: Flare-On 2019 "Memecat Battlestation"
 date: 2019-12-1 12:00:00
 img_path: /assets/posts/blog/FlareOn2019/Memecat
+categories: [CTF]
 tags: [CTF, Programming, NET, CS, CPP, Reverse Engineering]
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Resources
 date: 2024-05-04 12:00:00
+categories: [Blog]
 tags: [CTF, Programming, NET, CS, CPP, Reverse Engineering, Exploitation]
 pin: true
 ---
