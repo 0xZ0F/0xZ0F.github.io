@@ -5,16 +5,11 @@ categories: [Course, RE]
 tags: [RE Course]
 ---
 
-## Course Organization
-* Each folder (Ex. Chapter 1 - Introduction) is a **chapter**. Each piece of content (Ex. 1.1 HowTo.md) is a lesson/section.
-* **WIP** - Work In Progress. Anything marked WIP is not final and should be ignored until it is finished.
-* **TODO** - Anything marked TODO is yet to be done. It is far from ready but is planned.
-
 ## Bits and Bytes
 * **x64** is 64 bit.
 * **x32** and **x86** are 32 bit.
 * **MB** is megabyte, **GB** is gigabyte, etc.
-* For **number system prefixes and suffixes**, see the prefixes lesson in [2.1 NumberSystems](Chapter%202%20-%20BinaryBasics/2.1%20NumberSystems.md).
+* For **number system prefixes and suffixes**, see the prefixes lesson in [2.1 NumberSystems]({% post_url/RECourse/Chapter2/2024-05-06-RECourse_CH02_01_NumberSystems %}).
 
 ## Programming Language Related  
 * **JRE** - Java Runtime Environment

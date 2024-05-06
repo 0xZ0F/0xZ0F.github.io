@@ -63,7 +63,7 @@ That's the x64 Windows fastcall calling convention for you. Learning your first 
 
 If you want to learn more about the various calling conventions, see the sources at the end of the page.
 
-> If this lesson was confusing, read through [3.3 Instructions.md]({% post_url/RECourse/Chapter3/2024-05-06-RECourse_CH03_03_Instructions %}) then re-read this lesson. I apologize for this but there really isn't a good order to teach this stuff in since it all goes together.
+> If this lesson was confusing, read through [3.3 Instructions]({% post_url/RECourse/Chapter3/2024-05-06-RECourse_CH03_03_Instructions %}) then re-read this lesson. I apologize for this but there really isn't a good order to teach this stuff in since it all goes together.
 {:.prompt-tip}
 
 # cdecl (C Declaration)

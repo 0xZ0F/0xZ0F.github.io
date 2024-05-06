@@ -7,10 +7,10 @@ tags: [RE Course]
 
 This chapter will cover information you will need as well as how to get setup.
 
-Don't forget to check out the [table of contents]({%link _posts/RECourse/2024-05-06-RECourse_TOC.md%}) and the [frequently asked questions (FAQ)]({%link {{site.course_links.re.faq}}%}).
+Don't forget to check out the [table of contents]({% link {{site.course_links.re.toc}} %}) and the [frequently asked questions (FAQ)]({%link {{site.course_links.re.faq}}%}).
 
 ## Resources Needed:
-* Files mentioned in [setup]({% post_url/RECourse/Chapter1/2024-05-06-RECourse_CH01_01_Setup %}). These files can be found under [FilesNeeded](../FilesNeeded). More is covered in [setup]({% post_url/RECourse/Chapter1/2024-05-06-RECourse_CH01_01_Setup %}).
+* Files mentioned in [setup]({% post_url/RECourse/Chapter1/2024-05-06-RECourse_CH01_01_Setup %}). These files can be found under [FilesNeeded]({% link {{site.course_links.re.filesneeded}} %}). More is covered in [setup]({% post_url/RECourse/Chapter1/2024-05-06-RECourse_CH01_01_Setup %}).
 * The ability to run one virtual machine is recommended, but not required.
 
 # Prerequisites
@@ -38,11 +38,10 @@ This course will continue to be maintained and expanded whenever I feel up to it
 
 I use some technical lingo and abbreviations. If you forget what they mean, or don't know what they mean, check out the [lingo page]({%link {{site.course_links.re.lingo}}%}).
 
-### [Chapter 1 - Introduction](1.0%20Introduction.md)
-* [1.0 Introduction](1.0%20Introduction.md)
-* [1.1 HowTo](1.1%20HowTo.md)
-* [1.2 Setup](1.2%20Setup.md)
+### [Chapter 1 - Introduction]({% post_url/RECourse/Chapter1/2024-05-06-RECourse_CH01_00_Intro %})
+* [1.0 Introduction]({% post_url/RECourse/Chapter1/2024-05-06-RECourse_CH01_00_Intro %})
+* [1.1 Setup]({% post_url/RECourse/Chapter1/2024-05-06-RECourse_CH01_01_Setup %})
 
-[Next Lesson ->](1.1%20HowTo.md)  
+[Next Lesson ->]({% post_url/RECourse/Chapter1/2024-05-06-RECourse_CH01_01_Setup %})  
 
-[Chapter Home](1.0%20Introduction.md)  
+[Chapter Home]({% post_url/RECourse/Chapter1/2024-05-06-RECourse_CH01_00_Intro %})  

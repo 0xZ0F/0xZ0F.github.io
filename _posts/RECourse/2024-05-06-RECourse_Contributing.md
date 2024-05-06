@@ -9,7 +9,7 @@ Thank you to anyone who contributes to this course in any way. The community all
 
 ## Credit
 
-I try to always give credit to those who help contribute to the course. If you're making a pull request, you can add yourself to [Credit.md](Credit.md). If you don't, I will, unless you don't want to be listed. You can list your real name, social media account, or anything else as long as I approve of it.
+I try to always give credit to those who help contribute to the course. If you're making a pull request, you can add yourself to [Credit]({% post_url /RECourse/2024-05-06-RECourse_Credit %}). If you don't, I will, unless you don't want to be listed. You can list your real name, social media account, or anything else as long as I approve of it.
 
 ## How To Contribute
 
@@ -31,7 +31,8 @@ Any contributions are accepted as long as they improve the course in some way.
 * Requests for new topics or information to be added to the course are accepted. Submit them via [Twitter](https://twitter.com/0xZ0F) or by opening an issue.
 * There are plenty of spelling and link mistakes. Have fun.
 * If you want to add a whole chapter or lesson, go for it.
-* Feel free to contribute to WIP content. However, if you make a pull request be warned that it may be closed without being merged. If this is done it's because I will weave your work into my version. With that said, I will of course give you explicit credit in the lesson (and [Credit.md](Credit.md)).
+* Feel free to contribute to WIP content. However, if you make a pull request be warned that it may be closed without being merged. If this is done it's because I will weave your work into my version. With that said, I will of course give you explicit credit in the lesson (and [Credit](
+)).
 
 ## Standards
 
