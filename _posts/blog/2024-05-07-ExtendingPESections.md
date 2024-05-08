@@ -170,11 +170,11 @@ std::vector<BYTE> AddSectionHeaderSpace(std::vector<BYTE> data, DWORD dwToAdd)
 }
 ```
 
-For a full implementation of appending a new section, see [`AppendSection()` and `AddSectionHeaderSpace()` in `Extras.hpp`](https://github.com/0xZ0F/PESENT/Extras.hpp).
+For a full implementation of appending a new section, see `AppendSection()` and `AddSectionHeaderSpace()` in `Extras.hpp`.
 
 ### Bug
 
-Currently there is a, very unlikely to be encountered, bug. This bug occurs when the `SizeOfHeaders` aligned with `SectionAlignment` is greater than `SectionAlignment`. The reason for this is that, by default, the headers only take up the virtual address range of 0x0000 to 0x1000. However, say you have 100 headers. If this is the case then you need, at least on x64, 0x200 bytes for the DOS, NT, etc. headers, then 0xFA0 (unaligned) bytes for the section headers. Dueo to alignment, when the image is mapped into memory the headers will occupy virtual addresses 0x0000 to 0x2000. This is an issue since the first section is likely mapped to 0x1000. This means we must update all virtual addresses. 
+Currently there is a, very unlikely to be encountered, bug. This bug occurs when the `SizeOfHeaders` aligned with `SectionAlignment` is greater than `SectionAlignment`. The reason for this is that, by default, the headers only take up the virtual address range of 0x0000 to 0x1000. However, say you have 100 headers. If this is the case then you need, at least on x64, 0x200 bytes for the DOS, NT, etc. headers, then 0xFA0 (unaligned) bytes for the section headers. Due to alignment, when the image is mapped into memory the headers will occupy virtual addresses 0x0000 to 0x2000. This is an issue since the first section is likely mapped to 0x1000. This means we must update all virtual addresses. 
 
 This is the same issue that makes extending a section between other sections so difficult and will be discussed in a moment. We will also implement a fix, just not for this case since it's not likely to be an issue. Who needs that many headers?
 
@@ -197,7 +197,7 @@ First, it should be noted that we are extending a section, not creating a new on
 
 It is possible for the `SizeOfRawData` and `PointerToRawData` to be zero. This occurs when a section is meant for uninitialized data. This means that updating the `PointerToRawData` is a little bit more complicated since the aforementioned summation is not actually the most correct way to do it. Instead, the `PointerToRawData` should be updated based on the next available pointer. This is done by performing the same calculation as mentioned, however, only if the `SizeOfRawData` and `PointerToRawData` are not zero.
 
-For a full implementation of updating sections, see [UpdateSections() in PEHelpers.hpp]https://github.com/0xZ0F/PESENT/PEHelpers.hpp).
+For a full implementation of updating sections, see [UpdateSections() in PEHelpers.hpp](https://github.com/0xZ0F/PESENT/blob/main/PESENT/PEHelpers.hpp).
 
 ### It's Not Working
 
@@ -215,7 +215,7 @@ If you try and run it now, it may or may not work. The problem now is that while
 
 4. This means that for every directory entry you must parse its structure and update anything which needs to be updated. This is a pretty rough task, however, each directory entry should be at a specific index. These indexes can be found within `winnt.h`.
 
-The code for updating the entries is too long to put here. Instead, the updating of some of the directory entries can be found in [AdjustDataDirectories() in PEHelpers.hpp]https://github.com/0xZ0F/PESENT/PEHelpers.hpp).
+The code for updating the entries is too long to put here. Instead, the updating of some of the directory entries can be found in [AdjustDataDirectories() in PEHelpers.hpp](https://github.com/0xZ0F/PESENT/blob/main/PESENT/PEHelpers.hpp).
 
 Once all of the directory entries are updated, now it should work... right, Anakin?
 
