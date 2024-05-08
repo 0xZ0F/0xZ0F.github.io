@@ -5,8 +5,6 @@ categories: [Blog, Research]
 tags: [Programming, C, CPP, Malware, PE]
 ---
 
-![]()
-
 > A basic understanding of the PE header is assumed.
 {:.prompt-warning}
 
