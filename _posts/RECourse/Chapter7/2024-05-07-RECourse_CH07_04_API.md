@@ -52,7 +52,7 @@ Here is a great place to look for further research.
   * W - Wide, the function utilizes wide character encoding, aka 2 byte Unicode.
   * Ex (Such as CopyFileEx) - Extended, it's a reworked/redeveloped version of a previous function. Think of it as an updated function renamed to keep compatibility with other functions. If they were to just change the function without renaming it the changes may adversely affect current programs.
 
-[-> Next Lesson]()  
+[-> Next Lesson]({% post_url/RECourse/Chapter8/2024-05-07-RECourse_CH08_00_GenericTable %})  
 [<- Previous Lesson]({% post_url/RECourse/Chapter7/2024-05-07-RECourse_CH07_03_Architecture %})  
 
 [Chapter Home]({% post_url/RECourse/Chapter7/2024-05-07-RECourse_CH07_00_Windows %}) 

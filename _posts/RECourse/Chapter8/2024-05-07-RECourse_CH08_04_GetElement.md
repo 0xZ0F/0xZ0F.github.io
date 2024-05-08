@@ -472,7 +472,7 @@ void* MyRtlGetElementGenericTable(Table* table, ULONG index)
 
 Phew... that was not nearly as easy as the others. If you managed to wrap your head around that, you're on your way to greatness! Re-reading might be helpful, and of course, I'm open to questions!
 
-[-> Next Lesson]() - WIP  
+-> Next Lesson - WIP  
 [<- Previous Lesson]({% post_url/RECourse/Chapter8/2024-05-07-RECourse_CH08_03_IsGenericTableEmpty %})  
 
 [Chapter Home]({% post_url/RECourse/Chapter8/2024-05-07-RECourse_CH08_00_GenericTable %}) 

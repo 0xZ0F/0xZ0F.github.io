@@ -7,6 +7,7 @@ tags: [RE Course, RE]
 ---
 
 # 4.3 Tool Guides
+
 It's important to know how to use the software you are using. This lesson will cover some tool basics. It's best to use this lesson as a reference when the tools first get introduced.
 
 # x64dbg
@@ -16,6 +17,7 @@ It's important to know how to use the software you are using. This lesson will c
 x64dbg has a feature called "Analysis" which will analyze a portion of the disassembly. This analysis will give us more information such as comments on the right with information. There is a plugin that you can use for even better analysis called [xAnalyzer](https://github.com/ThunderCls/xAnalyzer). I use it and I would recommend it, although it is not required for this course.
 
 ### Main Tabs 
+
 Near the top of x64dbg, you will see many tabs which will aid us in our reversing.
 * **CPU** this is the disassembly.
 * The **graph** tab is useful for conditionals. To graph, you have to select the area you want to graph then right click and choose "Graph" or just press "G".
@@ -35,18 +37,23 @@ Near the top of x64dbg, you will see many tabs which will aid us in our reversin
 * **Trace** will show a trace of a section of the program. Traces allow you to "debug statically" once you have traced a section.
 
 ### Memory Window
+
 In the memory window, you have several different tabs. You have five different "Dumps" which are areas in memory. There is a "Watch" tab which allows you to watch parts memory and variables that you choose. "Locals" are local variables. "Struct" allows you to analyze structures.
 
 ### Stack Window
+
 The stack window shows the stack. The address of the current stack pointer is highlighted. 
 
 ### Register Window
+
 Shows all registers. You can right-click the registers and do things with/to them.
 
 ### Saving and Databases
+
 x64dbg automatically saves your progress. If you want to manually save your progress you can do so with databases. You can import and export databases under the "File" tab. Databases are also useful for sharing between computers.
 
 ### Settings
+
 Here are my settings for x64dbg:
 
 ![](Settings1.png)
@@ -61,7 +68,7 @@ Here are my settings for x64dbg:
 
 ![](Settings6.png)
 
-[-> Next Lesson]()  
+[-> Next Lesson]({% post_url/RECourse/Chapter5/2024-05-07-RECourse_CH05_00_BasicReversing %})  
 [<- Previous Lesson]({% post_url/RECourse/Chapter4/2024-05-07-RECourse_CH04_02_Debugging %})  
 
 [Chapter Home]({% post_url/RECourse/Chapter4/2024-05-07-RECourse_CH04_00_Tools %})  
