@@ -1,6 +1,6 @@
 ---
 title: RE Course - 2.6 - Mindset
-date: 2024-05-04 00:01:01
+date: 2024-05-06 00:02:06
 categories: [Course, RE]
 tags: [RE Course]
 img_path: /assets/RECourse/Chapter2/

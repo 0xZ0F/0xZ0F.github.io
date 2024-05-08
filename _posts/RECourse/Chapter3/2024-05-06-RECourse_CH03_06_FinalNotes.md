@@ -1,6 +1,6 @@
 ---
 title: RE Course - 3.6 - Final Notes
-date: 2024-05-04 00:01:01
+date: 2024-05-06 00:03:06
 categories: [Course, RE]
 tags: [RE Course]
 ---
@@ -13,7 +13,7 @@ We've covered the foundational stuff so we will now be moving on to the actual r
 
 With all of this said, this is where the real fun begins. I wish you the best of luck on this journey. Oh, and if you haven't taken a break yet then go take one now.
 
--> Next Lesson WIP  
+[-> Next Lesson]({% post_url/RECourse/Chapter4/2024-05-07-RECourse_CH04_00_Tools %})  
 [<- Previous Lesson]({% post_url/RECourse/Chapter3/2024-05-06-RECourse_CH03_05_CallingConventions %})  
 
 [Chapter Home]({% post_url/RECourse/Chapter3/2024-05-06-RECourse_CH03_00_Assembly %})  

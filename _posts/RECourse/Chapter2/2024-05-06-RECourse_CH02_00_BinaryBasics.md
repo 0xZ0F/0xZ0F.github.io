@@ -1,6 +1,6 @@
 ---
 title: RE Course - 2.0 - Binary Basics
-date: 2024-05-04 00:01:01
+date: 2024-05-06 00:02:00
 categories: [Course, RE]
 tags: [RE Course]
 ---

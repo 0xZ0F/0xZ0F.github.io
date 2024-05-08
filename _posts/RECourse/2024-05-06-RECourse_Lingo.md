@@ -1,6 +1,6 @@
 ---
 title: RE Course - Lingo
-date: 2024-05-04 00:00:00
+date: 2024-05-06 00:00:00
 categories: [Course, RE]
 tags: [RE Course]
 ---

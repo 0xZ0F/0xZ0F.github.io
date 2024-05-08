@@ -1,6 +1,6 @@
 ---
 title: RE Course - Before You Begin
-date: 2024-05-04 00:00:01
+date: 2024-05-06 00:00:01
 categories: [Course, RE]
 tags: [RE Course]
 ---
